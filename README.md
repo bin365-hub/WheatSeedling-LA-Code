@@ -6,7 +6,7 @@ Minimal reproducibility code for **WheatSeedling-LA v1.0**, a near-ground, low-a
 
 - Dataset: WheatSeedling-LA v1.0
 - Zenodo DOI: https://doi.org/10.5281/zenodo.21847420
-- Code repository: https://github.com/bin26-lbb/WheatSeedling-LA-Code
+- Code repository: https://github.com/bin365-hub/WheatSeedling-LA-Code
 - Class: `0 = Wheat`
 - Original field images: 2,203
 - Original annotated instances: 26,613
