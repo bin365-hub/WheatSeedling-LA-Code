@@ -1,0 +1,8 @@
+# Edit `path` if the dataset is stored elsewhere.
+path: ../WheatSeedling-LA_v1.0
+train: augmented/train/images
+val: original/val/images
+test: original/test/images
+
+names:
+  0: Wheat
