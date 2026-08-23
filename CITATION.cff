@@ -3,7 +3,7 @@ message: "If you use this software, please cite the WheatSeedling-LA dataset and
 title: "WheatSeedling-LA-Code"
 type: software
 version: "1.0.0"
-repository-code: "https://github.com/bin26-lbb/WheatSeedling-LA-Code"
+repository-code: "https://github.com/bin365-hub/WheatSeedling-LA-Code"
 authors:
   - family-names: "Han"
     given-names: "Yafeng"
